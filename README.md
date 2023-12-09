@@ -1,4 +1,4 @@
-# Dental Abnormality Detection using X-Ray Radiograph Segmentation and Mask Generation 
+# Filling the Gap in Dental Diagnostics: Tooth-wise Semantic Segmentation of X-Ray Radiographs with UNET-DinoV2
 ### A UNET-inspired architecture with [Meta's DINOV2](https://github.com/facebookresearch/dinov2) ViT
 **Authors: Aimon Benfield-Chand, Aruna Srivastava, Yafqa Khan**
 
