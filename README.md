@@ -1,5 +1,5 @@
 # Dental Abnormality Detection using X-Ray Radiograph Segmentation and Mask Generation 
-### A UNET-inspired architecture with [Meta's DINOV2 ViT]{https://dinov2.metademolab.com/)
+### A UNET-inspired architecture with Meta's [DINOV2]{https://dinov2.metademolab.com/) ViT
 **Authors: Aimon Benfield-Chand, Aruna Srivastava, Yafqa Khan**
 
 * [aimonbc@cs.washington.edu](aimonbc@cs.washington.edu)
