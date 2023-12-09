@@ -1,5 +1,8 @@
 # Dental Abnormality Detection using X-Ray Radiograph Segmentation and Mask Generation
 **Authors: Aimon Benfield-Chand, Aruna Srivastava, Yafqa Khan**
+*[aimonbc@cs.washington.edu](aimonbc@cs.washington.edu)
+*[arunasri@cs.washington.edu](arunasri@cs.washington.edu)
+*[yafqak@cs.washington.edu](yafqak@cs.washington.edu)
 
 ## 1.1. Motivation
 Dental and oral diseases significantly impact global
